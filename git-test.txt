@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 Test...1111
 
 
 Master text
+=======
+Test...1112
+Druga zmiana
+
+
+
+
+
+>>>>>>> new-text
+=======
+test branch
+Aliba,beton, chemia, zorro

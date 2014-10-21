@@ -1,2 +1,29 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	To realy think what a wanna commit to repository
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+	Use the statinng areaa to make change only in files the I am commiting one logical change
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Creating new version for different users
+	creating new experiment - finding if it will work
+
+How do the diagrams help you visualize the branch structure?
+	I see clearny now.
+
+Git
+-----------------------------
+
+working directory - staging arena - repository
+
+
+working directory - folder w którym pracuje
+
+staging arena - te pliki bed¹ zapisane w repository ale jeszcze nie zosta³y zapisane
+	git commit zapisuje pliki w stagina arena do repository
+
+repository - miejsce gdzie zapisane s¹ wszystkie zmiany w plikach
+
+Creating branches and merging
